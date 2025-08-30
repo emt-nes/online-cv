@@ -18,20 +18,8 @@ sidebar:
   timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Russia
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
+  linkedin: https://www.linkedin.com/in/kirillsennikov
+  Email: kirillsenni@gmail.com
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
@@ -46,15 +34,15 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Videogames
       link:
 
 
-    - item: Snowboarding
+    - item: Music production
       link:
 
 
-    - item: Cooking
+    - item: Visual arts
       link:
 
 
@@ -68,68 +56,71 @@ education:
   title: Education
   info:
   - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+    university: 
+Technical College of Management and Commerce
+    time: 2018 - 2022
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Participated in curriculum oriented at computer science, computer networks management, basic coding and basic PCB Design
+        - Computer science
+        - basic coding
   - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+    university: St.Petersburg art school of N.K. Roerich "Санкт-Петербургское художественное училище имени Н. К. Рериха"
+    time: 2017 - 2018
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Studied in Academic Art technicum for a year, learning the base of artistic theory, composition, lightning, Classic Oil painting, Academic Drawing, graphic design, color theory, Art history and other classic artistic disciplines.
+        
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: CONCEPT ARTIST / 2D ARTIST
+    time: 2022 - 2025
+    company: ION LANDS
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      During my time at ION LANDS, I contributed extensively to the visual development of the studio’s projects. My responsibilities and achievements included
+      Designed 120+ unique characters,
+      supporting a wide range of narrative and gameplay needs with distinctive and immersive visual identities.
+      Created a variety of in-game assets,
+      including UI inventory components, story-related visuals, character portraits, and diegetic in-world elements that enriched the player experience.
+      Established and refined art workflows, improving team efficiency and ensuring consistency across asset production.
+      Produced well-structured, optimized PSD and PNG files,
+      streamlining collaboration across departments such as animation, programming, and UI design.
+      Integrated AI tools like Midjourney 
+      into the concepting phase to accelerate ideation and inspire unique design directions while maintaining a strong human-led creative process.
+  - role: Junior 2D Artist
+    time: 2021 - 2022
+    company: SUNSTRIKE STUDIOS
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
+      Delivered high-quality visual assets for game development projects while adapting to fast-paced environments, diverse styles, and team needs. Key contributions include:
+      Designed, rendered, and delivered polished game icons for mobile titles, 
+      ensuring clarity, readability, and consistent visual appeal.
+      Adapted quickly to new tools, pipelines, and art styles 
+      (including vector workflows), demonstrating a flexible and solutions-oriented mindset.
+      Effectively communicated with art directors and cross-functional teams, ensuring alignment on goals, feedback, and visual direction.
+      Consistently met tight deadlines, delivering production-ready assets under pressure without compromising quality.
+      Prepared and optimized PSD and vector files for seamless handoff to animators, developers, and other departments.
+      Contributed original ideas and inspiration to the creative process, supporting the visual identity and tone of each project.
+      Accepted and applied constructive feedback to iterate quickly and improve outcomes in a collaborative environment.
+      Fostered strong professional relationships within the team to support smooth collaboration and successful project delivery.
+      Adapted to a variety of pipelines and art styles, including vector-based workflows, to meet diverse project needs.
+      Prepared and optimized files for downstream use by animators, developers, and UI teams, improving efficiency and usability.
+      Embraced constructive feedback, using it to iterate and improve work quality while maintaining a positive team dynamic.
+      Consistently met tight deadlines, delivering high-quality assets on schedule without compromising artistic integrity.
+      Quickly acquired new tools and techniques, demonstrating flexibility and a proactive learning mindset in fast-paced environments.
+  - role: Freelance Artist
     time: 2012 - 2014
     company: Amazon, London
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      - Established and maintained productive, professional working relationships to promote beneficial project results.
+      -Contributed to creative process through original ideas and inspiration.
+      - Drew illustrations and concepts for visualization, presentation and development purposes.
+      - Displayed portfolio to show off best work to potential clients and promote skills and value.
+      - Thoroughly investigated their needs to meet them as closely as possible
+      - Created artwork in a variety of different art styles and genres.
+      - Explored different pipelines and implemented best practicies for my clients
+      - Created effective time management systems for myself
+      - Worked with strict deadlines 
+      - Verified project completion and goal achievement by coaching clients on optimal usage of artistic products.
 
 certifications:
   title: Certifications
@@ -177,9 +168,9 @@ projects:
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - title: Nivalis
+    link: https://store.steampowered.com/app/1488490/Nivalis
+    tagline: Cyberpunk Life-sim with focus on business building 
 
   - title: DevStudio
     link: "#"
@@ -214,67 +205,29 @@ oss:
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: Adobe Photoshop
     level: 98%
 
-  - name: Javascript & jQuery
+  - name: Character concept art
     level: 98%
 
-  - name: Angular
+  - name: prop design
     level: 98%
 
-  - name: HTML5 & CSS
+  - name: Visual development
     level: 95%
 
-  - name: Ruby on Rails
+  - name: Blender / 3D modeling
     level: 85%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: substance painter
+    level: 75%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
