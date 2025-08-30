@@ -10,7 +10,7 @@ sidebar:
   # Profile information
   name: Kirill Sennikov
   tagline: Concept Artist / 2D Artist
-  avatar: profile_pic.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: Profile_pic.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: Kirillsenni@gmail.com
