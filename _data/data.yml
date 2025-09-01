@@ -130,19 +130,19 @@ skills:
   - name: Adobe Photoshop
     level: 98%
 
-  - name: Character concept art
-    level: 98%
-
-  - name: prop design
+  - name: Concept art
     level: 98%
 
   - name: Visual development
     level: 98%
 
   - name: Blender / 3D modeling
-    level: 85%
+    level: 98%
 
   - name: substance painter
+    level: 85%
+
+  - name: Generative AI
     level: 75%
 
 footer: >
