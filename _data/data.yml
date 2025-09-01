@@ -61,13 +61,11 @@ education:
   - degree: College
     university: Technical College of Management and Commerce
     time: 2018 - 2022
-    details: | 
-    Computer Systems and Complexes
+    details: Computer Systems and Complexes
   - degree: College
     university: St.Petersburg art school of N.K. Roerich "Санкт-Петербургское художественное училище имени Н. К. Рериха"
     time: 2017 - 2018
-    details: | 
-    Graphic design, academic painting
+    details: Graphic design, academic painting
         
 
 experiences:
