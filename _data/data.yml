@@ -59,15 +59,11 @@ education:
   - degree: College
     university: Technical College of Management and Commerce
     time: 2018 - 2022
-    details: |
-      Participated in curriculum oriented at computer science, computer networks management, basic coding and basic PCB Design
-        - Computer science
-        - basic coding
+    details: | Computer Systems and Complexes
   - degree: College
     university: St.Petersburg art school of N.K. Roerich "Санкт-Петербургское художественное училище имени Н. К. Рериха"
     time: 2017 - 2018
-    details: |
-      Studied in Academic Art technicum for a year, learning the base of artistic theory, composition, lightning, Classic Oil painting, Academic Drawing, graphic design, color theory, Art history and other classic artistic disciplines.
+    details: | Graphic design, academic painting
         
 
 experiences:
